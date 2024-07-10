@@ -1,0 +1,112 @@
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">[Carl Keller-Escher]: Promptuarium Genealogicum. Band I (Familiennamen Aberli-Bütschli)</title>
+        <author>
+          <persName/>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <idno>
+        </idno>
+        <publisher>Zentralbibliothek Zürich</publisher>
+        <availability status="licenced">
+          <licence>pdm</licence>
+        </availability>
+        <date type="publication">2024-06-12T12:41:41</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">: [Carl Keller-Escher]: Promptuarium Genealogicum. Band I (Familiennamen Aberli-Bütschli).</bibl>
+        <biblFull>
+          <publicationStmt>
+          </publicationStmt>
+          <titleStmt>
+            <title type="main" level="u">[Carl Keller-Escher]: Promptuarium Genealogicum. Band I (Familiennamen Aberli-Bütschli)</title>
+            <author>
+              <persName/>
+            </author>
+          </titleStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>
+              <idno type="shelfmark">Ms Z II 1</idno>
+              <idno type="DOI">10.7891/e-manuscripta-131487</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Unknown</p>
+            </typeDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1 Band; 46,5 cm x 15 cm; ca. 684 Seiten</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+      <editionStmt>
+        <edition></edition>
+      </editionStmt>
+    </fileDesc>
+    <encodingDesc>
+      <p>Encoded with the help of vls/2203.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front/>
+    <body>
+      <div id="log3585366"/>
+      <div id="log3585370" n="1" rend="Abgestorbne Gschlächter seith Anno 1661 [beigefügtes älteres Dokument]"/>
+      <titlePage id="log3589793"/>
+      <div id="log3585371"/>
+      <div id="log3585430" n="1" rend="Aberli, Aaberli"/>
+      <div id="log3585431" n="1" rend="Abegg"/>
+      <div id="log3585432" n="1" rend="Albertin"/>
+      <div id="log3585920" n="1" rend="Albrecht"/>
+      <div id="log3585921" n="1" rend="Ammann"/>
+      <div id="log3585922" n="1" rend="Arter"/>
+      <div id="log3585923" n="1" rend="Bachofen"/>
+      <div id="log3585924" n="1" rend="Balber"/>
+      <div id="log3585925" n="1" rend="Baltenschwyler"/>
+      <div id="log3585926" n="1" rend="Bebie, Pebia"/>
+      <div id="log3585927" n="1" rend="Berger"/>
+      <div id="log3585928" n="1" rend="Bernhard"/>
+      <div id="log3585929" n="1" rend="Bernhauser"/>
+      <div id="log3585930" n="1" rend="Beyel früher Bygel"/>
+      <div id="log3585931" n="1" rend="Billeter"/>
+      <div id="log3585932" n="1" rend="von Birch"/>
+      <div id="log3585933" n="1" rend="Blaarer v. Wartensee, von Blaarer v. Wartensee"/>
+      <div id="log3585934" n="1" rend="Blass"/>
+      <div id="log3585935" n="1" rend="Bleuler"/>
+      <div id="log3585936" n="1" rend="Bluntschli"/>
+      <div id="log3585938" n="1" rend="Bodmer"/>
+      <div id="log3585939" n="1" rend="Boller"/>
+      <div id="log3585940" n="1" rend="Bosshard"/>
+      <div id="log3585941" n="1" rend="Bräm"/>
+      <div id="log3585942" n="1" rend="Breitinger"/>
+      <div id="log3585943" n="1" rend="Bremi"/>
+      <div id="log3585945" n="1" rend="Brennwald"/>
+      <div id="log3585946" n="1" rend="Breysacher"/>
+      <div id="log3585947" n="1" rend="Brunner"/>
+      <div id="log3585948" n="1" rend="Büeler"/>
+      <div id="log3585949" n="1" rend="Bullinger"/>
+      <div id="log3585950" n="1" rend="Burkhard, Burkhardt"/>
+      <div id="log3585951" n="1" rend="Bürkli"/>
+      <div id="log3585952" n="1" rend="Bütschli"/>
+      <div id="log3585376"/>
+      <div id="log3585375"/>
+      <div id="log3585374"/>
+    </body>
+    <back/>
+  </text>
+</TEI>
